@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerEnvironment>ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\13223\AppData\Roaming
+ChocolateyInstall=C:\ProgramData\chocolatey
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=INHYD0010DC
+ComSpec=C:\WINDOWS\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FMS_HOME=D:\TC2\tcroot\tccs
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\13223
+JAVA_HOME=D:\Apps\Java\jdk1.8.0_231
+JDK_HOME=D:\Apps\Java\jdk1.8.0_231
+JRE64_HOME=D:\Apps\Java\jdk1.8.0_231\jre
+JRE_HOME=D:\Apps\Java\jdk1.8.0_231\jre
+LOCALAPPDATA=C:\Users\13223\AppData\Local
+LOGONSERVER=\\INBGL0025VM
+MAVEN_HOME=C:\apache-maven-3.9.9
+NUMBER_OF_PROCESSORS=12
+OneDrive=C:\Users\13223\OneDrive - IZ
+OneDriveCommercial=C:\Users\13223\OneDrive - IZ
+OS=Windows_NT
+Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Apps\Downloads\WINDOWS.X64_193000_db_home\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;D:\Apps\Git\cmd;D:\TC2\tcroot\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\apache-maven-3.9.9\bin;C:\Program Files\Cppcheck\cppcheck.exe;C:\Users\13223\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\13223\AppData\Local\Programs\Python\Python312\;C:\Users\13223\AppData\Local\Programs\Python\Launcher\;C:\Users\13223\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 167 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=a701
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SPLM_LICENSE_SERVER=28000@10.0.0.13
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TC_PASSWORD=infodba
+TC_USERNAME=infodba
+TEAMCENTER_PASSWORD=infodba
+TEAMCENTER_USERNAME=infodba
+TEMP=C:\Users\13223\AppData\Local\Temp
+TMP=C:\Users\13223\AppData\Local\Temp
+UGII_LICENSE_FILE=28000@10.0.0.13
+USERDNSDOMAIN=IZD01.IN
+USERDOMAIN=IZD01
+USERDOMAIN_ROAMINGPROFILE=IZD01
+USERNAME=13223
+USERPROFILE=C:\Users\13223
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VS110COMNTOOLS=D:\Apps\Microsoft Visual Studio 11.0\Common7\Tools\
+windir=C:\WINDOWS
+ZES_ENABLE_SYSMAN=1
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerEnvironment>ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\13223\AppData\Roaming
+ChocolateyInstall=C:\ProgramData\chocolatey
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=INHYD0010DC
+ComSpec=C:\WINDOWS\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+FMS_HOME=D:\TC2\tcroot\tccs
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\13223
+JAVA_HOME=D:\Apps\Java\jdk1.8.0_231
+JDK_HOME=D:\Apps\Java\jdk1.8.0_231
+JRE64_HOME=D:\Apps\Java\jdk1.8.0_231\jre
+JRE_HOME=D:\Apps\Java\jdk1.8.0_231\jre
+LOCALAPPDATA=C:\Users\13223\AppData\Local
+LOGONSERVER=\\INBGL0025VM
+MAVEN_HOME=C:\apache-maven-3.9.9
+NUMBER_OF_PROCESSORS=12
+OneDrive=C:\Users\13223\OneDrive - IZ
+OneDriveCommercial=C:\Users\13223\OneDrive - IZ
+OS=Windows_NT
+Path=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Apps\Downloads\WINDOWS.X64_193000_db_home\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;D:\Apps\Git\cmd;D:\TC2\tcroot\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\apache-maven-3.9.9\bin;C:\Program Files\Cppcheck\cppcheck.exe;C:\Users\13223\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\13223\AppData\Local\Programs\Python\Python312\;C:\Users\13223\AppData\Local\Programs\Python\Launcher\;C:\Users\13223\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 167 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=a701
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SPLM_LICENSE_SERVER=28000@10.0.0.13
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TC_PASSWORD=infodba
+TC_USERNAME=infodba
+TEAMCENTER_PASSWORD=infodba
+TEAMCENTER_USERNAME=infodba
+TEMP=C:\Users\13223\AppData\Local\Temp
+TMP=C:\Users\13223\AppData\Local\Temp
+UGII_LICENSE_FILE=28000@10.0.0.13
+USERDNSDOMAIN=IZD01.IN
+USERDOMAIN=IZD01
+USERDOMAIN_ROAMINGPROFILE=IZD01
+USERNAME=13223
+USERPROFILE=C:\Users\13223
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+VS110COMNTOOLS=D:\Apps\Microsoft Visual Studio 11.0\Common7\Tools\
+windir=C:\WINDOWS
+ZES_ENABLE_SYSMAN=1
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
